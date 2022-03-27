@@ -1,4 +1,4 @@
-# dio-desafio-git-hub-primeiro-repositorio
+# dio-desafio-github-primeiro-repositorio
 Desafio de Projeto sobre git/github da DIO
  > Repositório criado para desafio
 ## Visão geral do Pensamento Computacional
