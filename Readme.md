@@ -1,6 +1,6 @@
 # dio-desafio-git-hub-primeiro-repositorio
 Desafio de Projeto sobre git/github da DIO
-### Repositório criado para desafio
+Repositório criado para desafio
 ## Visão geral do Pensamento Computacional
 ### Pensamento Computacional
 Processo de pensamento envolvido na expressão de soluções e algoritmos. Formulação e resolução de problemas, de forma sistemática e eficiente. Habilidade generalista.
