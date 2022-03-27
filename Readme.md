@@ -9,7 +9,7 @@ São 4 pilares:
  - Decomposição: segmentar um grande problema.
  - Reconhecimento de padrões: identificar problemas em padrões distintos.
  - Abstração: extrapolar uma particularidade até se tornar generalista.
- - Design de algoritmos: definir passo a passo para soluções de problemas. ** entrada-operação-saída**
+ - Design de algoritmos: definir passo a passo para soluções de problemas. ** entrada-operação-saída **
 ### Processo contínuo 
  - Definir solução
  - Testar a solução
